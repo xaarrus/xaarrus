@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning .NET, C#, VUE, MSSQL
+- 👍 First public web-site project as [Blog](https://xaarrus.github.io/Blog/ "Yes it's work!")
 
 <!--
 **xaarrus/xaarrus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

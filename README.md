@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning .NET, C#, VUE, MSSQL
+- 🌱 I’m currently learning .NET, C#, Blazor, MSSQL
 - 👍 First public web-site project as [Blog](https://xaarrus.github.io/Blog/ "Yes it's work!")
 
 <!--
